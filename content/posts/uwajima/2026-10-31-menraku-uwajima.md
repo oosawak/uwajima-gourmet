@@ -5,6 +5,8 @@ category: うどん
 summary: 宇和島市保田甲の国道56号沿いに2026年6月21日にオープンした「うどん処 麺楽」。好きな量と具で自分だけの一杯を楽しめるセルフスタイルが、お店自身の投稿で紹介されています。
 map_query: うどん処 麺楽 宇和島市保田甲128-1
 address: 愛媛県宇和島市保田甲128-1
+lat: 33.1844310
+lng: 132.5460624
 cover: uwajima/menraku-uwajima.webp
 cover_alt: セルフうどんと天ぷらを描いた水彩調イラスト
 type: article

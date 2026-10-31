@@ -5,6 +5,8 @@ category: 郷土料理
 summary: 宇和島市鶴島町、JR宇和島駅近くの「かどや 本店」。漁師の食事から広がった宇和島鯛めしが名物で、訪問者の投稿でおすすめの一軒として紹介されています。
 map_query: かどや 本店 宇和島市鶴島町1-23
 address: 愛媛県宇和島市鶴島町1-23
+lat: 33.225616
+lng: 132.565903
 cover: uwajima/kadoya-uwajima.webp
 cover_alt: 宇和島鯛めしの膳を描いた水彩調イラスト
 type: article

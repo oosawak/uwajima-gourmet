@@ -85,3 +85,23 @@
 
 /* Cover images: show the whole image at its natural aspect ratio, never cropped to a fixed frame (2026-10-26) */
 .tile-image,.articlecover{aspect-ratio:auto;object-fit:initial}
+
+/* Uwajima gourmet map (Leaflet, self-hosted) */
+.mapsection{padding-top:8px}
+.maplead{font-size:12px;color:var(--muted);margin-bottom:14px}
+.gourmetmap{height:430px;border:1px solid var(--line);border-radius:16px;overflow:hidden;background:#e8ede4;position:relative;z-index:0}
+.gourmetmap .leaflet-popup-content{font-size:12px;line-height:1.7}
+.gourmetmap .leaflet-popup-content strong{font-size:13px}
+.gourmetmap .leaflet-popup-content a{color:var(--accent);font-weight:700}
+.mapfallback{padding:22px;font-size:12px;color:var(--muted)}
+.mapattr{font-size:10px;color:var(--muted);margin-top:8px}
+.mapattr a{text-decoration:underline}
+@media(max-width:600px){.gourmetmap{height:330px}}
+
+/* Map style selector (Uwajima) */
+.mapstylebar{display:flex;gap:2px;background:rgba(255,255,255,.92);padding:3px;border-radius:999px;box-shadow:0 4px 14px rgba(34,48,42,.22)}
+.mapstylebar button{border:0;background:transparent;color:#43534a;font-size:11px;line-height:1;padding:6px 8px;border-radius:999px;cursor:pointer;font-family:inherit;white-space:nowrap}
+.mapstylebar button.active{background:var(--accent);color:#fff;font-weight:700}
+/* Uwajima top: the photo list follows the map — cancel the hero-overlap pull-up so it never covers the map or its attribution, and keep the gap snug */
+.mapsection{padding-bottom:16px}
+.mapsection+.feature-wrap{margin-top:2px}

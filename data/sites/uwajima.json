@@ -65,7 +65,9 @@
       "embed_url": "https://www.threads.com/@udon_menraku/post/DWcgugVE6IS",
       "embed_platform": "threads",
       "map_query": "うどん処 麺楽 宇和島市保田甲128-1",
-      "address": "愛媛県宇和島市保田甲128-1"
+      "address": "愛媛県宇和島市保田甲128-1",
+      "lat": 33.184431,
+      "lng": 132.5460624
     },
     {
       "id": "uwajima:kadoya-uwajima",
@@ -92,7 +94,9 @@
       "embed_url": "https://www.threads.com/@ntech_0209glass0421shige/post/DSsqTKPk5_Z",
       "embed_platform": "threads",
       "map_query": "かどや 本店 宇和島市鶴島町1-23",
-      "address": "愛媛県宇和島市鶴島町1-23"
+      "address": "愛媛県宇和島市鶴島町1-23",
+      "lat": 33.225616,
+      "lng": 132.565903
     }
   ]
 }
