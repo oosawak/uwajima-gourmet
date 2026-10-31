@@ -1,0 +1,16 @@
+{
+  "sites": {
+    "uwajima": {
+      "name": "Uwajima Food Guide",
+      "short_name": "Uwajima Food",
+      "kind_label": "Food magazine",
+      "hero_title": "Take your time exploring\nthe flavors of Uwajima.",
+      "description": "Sea bream rice, udon and seafood: a guide to the flavors of Uwajima in Ehime.",
+      "subtitle": "Stories about the tastes of Uwajima",
+      "hero_note": "Local flavors and short trips",
+      "about": "A Uwajima food guide based on social posts by people who visited local eateries. Cover images are AI-created watercolor illustrations; see the embedded original posts for actual photos of the food.",
+      "source_hash": "740f6f6081a58fcf24ba37b639c75a9e72c88bb0d7957b5141775e48a8d9d436"
+    }
+  },
+  "posts": {}
+}

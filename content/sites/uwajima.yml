@@ -1,0 +1,15 @@
+id: uwajima
+name: 宇和島グルメ案内
+short_name: 宇和島グルメ
+kind: media
+kind_label: グルメメディア
+accent: '#9e3a2b'
+eyebrow: TASTE OF UWAJIMA
+hero_title: '宇和島のおいしいものを、
+ゆっくりめぐる。'
+description: 鯛めし、うどん、海の幸。宇和島のおいしい風景をたどるグルメ案内です。
+subtitle: 宇和島の味を集めた読みもの
+hero_note: 郷土の味と小さな旅
+about: 愛媛県宇和島市内の飲食店を訪れた人のSNS投稿をもとに、お店と料理を紹介するグルメ案内です。カバー画像はAIが作成した水彩調イラストで、実際の料理の写真は各記事に埋め込んだ元投稿で確認できます。
+
+hero_image: uwajima/hero.webp
