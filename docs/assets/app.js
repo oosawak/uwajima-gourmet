@@ -156,7 +156,9 @@
       const marker=L.marker([raw.lat,raw.lng]).addTo(map).bindPopup(popup);gourmetMarkers[raw.slug]=marker;
       bounds.push([raw.lat,raw.lng]);
     }
-    if(bounds.length>1)map.fitBounds(bounds,{padding:[30,30],maxZoom:16});else map.setView(bounds[0],15);
+    const initialBounds=pins.filter(x=>x.map_initial!==false).map(x=>[x.lat,x.lng]);
+    const viewBounds=initialBounds.length?initialBounds:bounds;
+    if(viewBounds.length>1)map.fitBounds(viewBounds,{padding:[30,30],maxZoom:16});else map.setView(viewBounds[0],15);
   }
   function flyToShop(slug){
     const marker=gourmetMarkers[slug],el=document.getElementById('gourmet-map');
