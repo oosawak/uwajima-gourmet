@@ -224,6 +224,8 @@ def generate():
                 summary['lat']=float(fm['lat']); summary['lng']=float(fm['lng'])
             except (TypeError, ValueError):
                 raise ValueError(f'Invalid lat/lng in {postpath}')
+        if fm.get('map_initial') is False:
+            summary['map_initial']=False
         if item_type=='product':
             if SITE_ID!='fruit':raise ValueError('Products only supported in fruit demo')
             required(fm,['price_jpy','unit','stock'],postpath)
