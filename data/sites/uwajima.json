@@ -60,7 +60,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Uwajima City's \"Udon-dokoro Menraku\" — Self-service udon where you can create your own bowl",
+          "category": "Udon",
+          "summary": "\"Udon-dokoro Menraku\" opened on June 21, 2026, along National Route 56 in Hota-ko, Uwajima City. The restaurant's own posts highlight its self-service style, allowing customers to enjoy their own custom bowl with whatever amount and toppings they like.",
+          "cover_alt": "Watercolor-style illustration of self-service udon and tempura"
+        }
       },
       "embed_url": "https://www.threads.com/@udon_menraku/post/DWcgugVE6IS",
       "embed_platform": "threads",
@@ -89,7 +94,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Uwajima City \"Kadoya Honten\" — Uwajima taimeshi (sea bream rice) near Uwajima Station",
+          "category": "Regional Cuisine",
+          "summary": "\"Kadoya Honten,\" located in Tsurushima-cho, Uwajima City, near JR Uwajima Station. Its specialty is Uwajima taimeshi (sea bream rice), which evolved from fishermen's meals; it has been featured as a recommended spot in visitor posts.",
+          "cover_alt": "Watercolor-style illustration of a Uwajima taimeshi (sea bream rice) set"
+        }
       },
       "embed_url": "https://www.threads.com/@ntech_0209glass0421shige/post/DSsqTKPk5_Z",
       "embed_platform": "threads",

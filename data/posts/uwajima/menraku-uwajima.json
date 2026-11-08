@@ -18,7 +18,14 @@
     "mime": "image/webp"
   },
   "i18n": {
-    "en": {}
+    "en": {
+      "title": "Uwajima City's \"Udon-dokoro Menraku\" — Self-service udon where you can create your own bowl",
+      "category": "Udon",
+      "summary": "\"Udon-dokoro Menraku\" opened on June 21, 2026, along National Route 56 in Hota-ko, Uwajima City. The restaurant's own posts highlight its self-service style, allowing customers to enjoy their own custom bowl with whatever amount and toppings they like.",
+      "cover_alt": "Watercolor-style illustration of self-service udon and tempura",
+      "html": "<p>This is &quot;Udon-dokoro Menraku,&quot; located along National Route 56 in Hota-ko, Uwajima City.</p>\n<p>The restaurant announced its opening in a post, expressing its desire to serve a comforting bowl of noodles in Uwajima. It is described as a self-service spot where you can choose both the noodle portion and toppings to your liking, allowing you to casually enjoy a bowl tailored just to you.</p>\n<p>At the time of the post, the opening was scheduled for June, but it subsequently opened on June 21, 2026.</p>\n<p>You can find the restaurant's location, phone number, and business hours on Google Maps via &quot;Restaurant Location&quot; at the bottom of this article.</p>\n<p>Source: <a href=\"https://www.threads.com/@udon_menraku/post/DWcgugVE6IS\">Threads post</a></p>\n",
+      "markdown": "This is \"Udon-dokoro Menraku,\" located along National Route 56 in Hota-ko, Uwajima City.\n\nThe restaurant announced its opening in a post, expressing its desire to serve a comforting bowl of noodles in Uwajima. It is described as a self-service spot where you can choose both the noodle portion and toppings to your liking, allowing you to casually enjoy a bowl tailored just to you.\n\nAt the time of the post, the opening was scheduled for June, but it subsequently opened on June 21, 2026.\n\nYou can find the restaurant's location, phone number, and business hours on Google Maps via \"Restaurant Location\" at the bottom of this article.\n\nSource: [Threads post](https://www.threads.com/@udon_menraku/post/DWcgugVE6IS)\n"
+    }
   },
   "embed_url": "https://www.threads.com/@udon_menraku/post/DWcgugVE6IS",
   "embed_platform": "threads",

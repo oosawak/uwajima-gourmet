@@ -18,7 +18,14 @@
     "mime": "image/webp"
   },
   "i18n": {
-    "en": {}
+    "en": {
+      "title": "Uwajima City \"Kadoya Honten\" — Uwajima taimeshi (sea bream rice) near Uwajima Station",
+      "category": "Regional Cuisine",
+      "summary": "\"Kadoya Honten,\" located in Tsurushima-cho, Uwajima City, near JR Uwajima Station. Its specialty is Uwajima taimeshi (sea bream rice), which evolved from fishermen's meals; it has been featured as a recommended spot in visitor posts.",
+      "cover_alt": "Watercolor-style illustration of a Uwajima taimeshi (sea bream rice) set",
+      "html": "<p>This is Kadoya Honten, located in Tsurushima-cho, Uwajima City, near JR Uwajima Station.</p>\n<p>A visitor's post describes their experience tasting the local specialty, Uwajima taimeshi (sea bream rice). The post mentions how what was originally a fisherman's meal spread to become a local specialty, and that yellowtail is also well-known in Uwajima; it also shares the impression that while there are taimeshi restaurants in Matsuyama as well, this one is highly recommended.</p>\n<p>This is a place where you can enjoy the local specialty you'll want to try first when visiting Uwajima, right at the main restaurant near the station.</p>\n<p>You can find the restaurant's location, phone number, and business hours on Google Maps via &quot;Restaurant Location&quot; at the bottom of this article.</p>\n<p>Source: <a href=\"https://www.threads.com/@ntech_0209glass0421shige/post/DSsqTKPk5_Z\">Threads post</a></p>\n",
+      "markdown": "This is Kadoya Honten, located in Tsurushima-cho, Uwajima City, near JR Uwajima Station.\n\nA visitor's post describes their experience tasting the local specialty, Uwajima taimeshi (sea bream rice). The post mentions how what was originally a fisherman's meal spread to become a local specialty, and that yellowtail is also well-known in Uwajima; it also shares the impression that while there are taimeshi restaurants in Matsuyama as well, this one is highly recommended.\n\nThis is a place where you can enjoy the local specialty you'll want to try first when visiting Uwajima, right at the main restaurant near the station.\n\nYou can find the restaurant's location, phone number, and business hours on Google Maps via \"Restaurant Location\" at the bottom of this article.\n\nSource: [Threads post](https://www.threads.com/@ntech_0209glass0421shige/post/DSsqTKPk5_Z)\n"
+    }
   },
   "embed_url": "https://www.threads.com/@ntech_0209glass0421shige/post/DSsqTKPk5_Z",
   "embed_platform": "threads",
