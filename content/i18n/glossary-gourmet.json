@@ -1,0 +1,26 @@
+{
+  "site": "uwajima",
+  "category_map": {
+    "郷土料理": "Regional Cuisine",
+    "うどん": "Udon"
+  },
+  "note": "PLaMo 3 Translate 用の用語集。terms は全段落共通でモデルへ渡す。",
+  "terms": [
+    {
+      "source": "宇和島",
+      "target": "Uwajima"
+    },
+    {
+      "source": "鯛めし",
+      "target": "taimeshi (sea bream rice)"
+    },
+    {
+      "source": "じゃこ天",
+      "target": "jakoten"
+    },
+    {
+      "source": "伊達",
+      "target": "Date"
+    }
+  ]
+}
