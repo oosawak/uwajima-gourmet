@@ -12,5 +12,22 @@
       "source_hash": "740f6f6081a58fcf24ba37b639c75a9e72c88bb0d7957b5141775e48a8d9d436"
     }
   },
-  "posts": {}
+  "posts": {
+    "uwajima:kadoya-uwajima": {
+      "title": "Uwajima City \"Kadoya Honten\" — Uwajima taimeshi (sea bream rice) near Uwajima Station",
+      "category": "Regional Cuisine",
+      "summary": "\"Kadoya Honten,\" located in Tsurushima-cho, Uwajima City, near JR Uwajima Station. Its specialty is Uwajima taimeshi (sea bream rice), which evolved from fishermen's meals; it has been featured as a recommended spot in visitor posts.",
+      "cover_alt": "Watercolor-style illustration of a Uwajima taimeshi (sea bream rice) set",
+      "markdown": "This is Kadoya Honten, located in Tsurushima-cho, Uwajima City, near JR Uwajima Station.\n\nA visitor's post describes their experience tasting the local specialty, Uwajima taimeshi (sea bream rice). The post mentions how what was originally a fisherman's meal spread to become a local specialty, and that yellowtail is also well-known in Uwajima; it also shares the impression that while there are taimeshi restaurants in Matsuyama as well, this one is highly recommended.\n\nThis is a place where you can enjoy the local specialty you'll want to try first when visiting Uwajima, right at the main restaurant near the station.\n\nYou can find the restaurant's location, phone number, and business hours on Google Maps via \"Restaurant Location\" at the bottom of this article.\n\nSource: [Threads post](https://www.threads.com/@ntech_0209glass0421shige/post/DSsqTKPk5_Z)\n",
+      "source_hash": "06dd75ca7819e56f7f5e10d31cb3dac77df12aa04837fc34dfe59420d92617b4"
+    },
+    "uwajima:menraku-uwajima": {
+      "title": "Uwajima City's \"Udon-dokoro Menraku\" — Self-service udon where you can create your own bowl",
+      "category": "Udon",
+      "summary": "\"Udon-dokoro Menraku\" opened on June 21, 2026, along National Route 56 in Hota-ko, Uwajima City. The restaurant's own posts highlight its self-service style, allowing customers to enjoy their own custom bowl with whatever amount and toppings they like.",
+      "cover_alt": "Watercolor-style illustration of self-service udon and tempura",
+      "markdown": "This is \"Udon-dokoro Menraku,\" located along National Route 56 in Hota-ko, Uwajima City.\n\nThe restaurant announced its opening in a post, expressing its desire to serve a comforting bowl of noodles in Uwajima. It is described as a self-service spot where you can choose both the noodle portion and toppings to your liking, allowing you to casually enjoy a bowl tailored just to you.\n\nAt the time of the post, the opening was scheduled for June, but it subsequently opened on June 21, 2026.\n\nYou can find the restaurant's location, phone number, and business hours on Google Maps via \"Restaurant Location\" at the bottom of this article.\n\nSource: [Threads post](https://www.threads.com/@udon_menraku/post/DWcgugVE6IS)\n",
+      "source_hash": "85df9ee9aabed4363ec970a0bfbe065290807b18531ecfd54c0a09b84875deb6"
+    }
+  }
 }
