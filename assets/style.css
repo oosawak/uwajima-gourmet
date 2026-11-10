@@ -105,3 +105,4 @@
 /* Uwajima top: the photo list follows the map — cancel the hero-overlap pull-up so it never covers the map or its attribution, and keep the gap snug */
 .mapsection{padding-bottom:16px}
 .mapsection+.feature-wrap{margin-top:2px}
+.listenbar{margin-bottom:20px}
